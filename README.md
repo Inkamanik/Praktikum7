@@ -1,14 +1,14 @@
 # Praktikum7
 ## Latihan1.cpp
 
-Alur Algoritma
-    1. Mulai program tersebut
-    2. Input interger fungsi (int, int)
-    3. Input integer a dan b dan deskripsikan a=0, dan b=1.
-    4. Jika nilai suku satu (b) adalah =1 dan jika nilai suku dua (a) adalah =0
-    5. Maka cetak rumus fungsi iteratif menggunakan for intruksikan fungsi fibionicci di awali dengan 2 dan diakhiri dengan i.
-    6. Deskripsikan variabel untuk mencetak fungsi selanjutnya
-    7. Cetak suku fibionicci menggunakan pemanggilan fungsi iteratif.
+**Alur Algoritma**
+1. Mulai program tersebut
+2. Input interger fungsi (int, int)
+3. Input integer a dan b dan deskripsikan a=0, dan b=1.
+4. Jika nilai suku satu (b) adalah =1 dan jika nilai suku dua (a) adalah =0
+5. Maka cetak rumus fungsi iteratif menggunakan for intruksikan fungsi fibionicci di awali dengan 2 dan diakhiri dengan i.
+6. Deskripsikan variabel untuk mencetak fungsi selanjutnya
+7. Cetak suku fibionicci menggunakan pemanggilan fungsi iteratif.
 
 Pseudecode
 
@@ -58,14 +58,14 @@ Hasil
 
 ## Latihan2.cpp
 
-Alur Algoritma
-    1. Mulai program tersebut
-    2. Input integer fungsi (int a, int b)
-    3. Jika nilai integer (b==0) return 0
-    4. Jika nilai (b>0) intruksikan return a + type data (a, b - 1)
-    5. Sebaliknya return (-a) + type data (a, b + 1)
-    6. Masukan variabel a,b untuk menginput nilai awal dan dibagi dengan nilai selanjutnya
-    7. Cetak nilai perkalian dengan memanggil fungsi rekrusif menggunakan type datanya.
+**Alur Algoritma**
+1. Mulai program tersebut
+2. Input integer fungsi (int a, int b)
+3. Jika nilai integer (b==0) return 0
+4. Jika nilai (b>0) intruksikan return a + type data (a, b - 1)
+5. Sebaliknya return (-a) + type data (a, b + 1)
+6. Masukan variabel a,b untuk menginput nilai awal dan dibagi dengan nilai selanjutnya
+7. Cetak nilai perkalian dengan memanggil fungsi rekrusif menggunakan type datanya.
 
 Pseudecode
 
@@ -104,12 +104,12 @@ Hasil
 
 ## Latihan3.cpp
 
-Alur Algoritma
-    1. Mulai program tersebut
-    2. Input menggunakan intruksi void dan menggunakan pointer untuk menetapkan void typedata (char *s)
-    3. Jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
-    4. Masukan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
-    5. Cetak pembalikan kata dengan memanggil fungsi rekrusif menggunakan type datanya
+**Alur Algoritma**
+1. Mulai program tersebut
+2. Input menggunakan intruksi void dan menggunakan pointer untuk menetapkan void typedata (char *s)
+3. Jika nilai s!=0--> menggunakan Pointer(*) maka masukan intruksi membalik (&s[1])
+4. Masukan char untuk intruksi kata yang ingin kita ubah dan intruksi balik
+5. Cetak pembalikan kata dengan memanggil fungsi rekrusif menggunakan type datanya
 
 Pseudecode
 
