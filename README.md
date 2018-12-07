@@ -54,7 +54,8 @@ CODE PROGRAM
     return 0;
     }
 
-Hasil
+![Hasil](https://raw.githubusercontent.com/Inkamanik/Praktikum7/master/Latihan1/IMG-20181207-WA0025.jpg)
+
 
 ## Latihan2.cpp
 
@@ -100,7 +101,7 @@ CODE PROGRAM
     cout << " AxB == " << kali_rekursif(a, b) << endl;
     }
 
-Hasil
+![Hasil](https://raw.githubusercontent.com/Inkamanik/Praktikum7/master/Latihan2/Ss2.png)
 
 ## Latihan3.cpp
 
@@ -145,4 +146,4 @@ CODE PROGRAM
     return 0;
     }
 
-Hasil
+![Hasil](https://raw.githubusercontent.com/Inkamanik/Praktikum7/master/Latihan3/Ss3.png)
